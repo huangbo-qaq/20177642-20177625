@@ -62,7 +62,7 @@ function getData() {
         add_div(treeId);
 
         $("#" + treeId).treeview({
-            color: "#428bca",
+            color: "#4B0082",
             expandIcon: 'glyphicon glyphicon-chevron-right',
             collapseIcon: 'glyphicon glyphicon-chevron-down',
             emptyIcon: 'glyphicon glyphicon-user',
